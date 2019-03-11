@@ -18,8 +18,8 @@
 		{
 			"GiveNamedItem"
 			{
-				"windows"	"552"
-				"linux"		"553"
+				"windows"	"423"
+				"linux"		"424"
 			}
 			"RemovePlayerItem"
 			{
