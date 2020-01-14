@@ -57,6 +57,14 @@ While signatures look and sound like a real pain in the butt to deal with, the o
 
 
 # Changelog
+Update (01-12-2020)
+-------------------------------
+- Added the ZPS 2.4.1 gamedata files for those who want to put up a 2.4.1 legacy server. 
+    * Just like with the ZPS 3.1 gamedata, Sourcemod does not have ZPS 2.4.1's gamedata by default, so you will need to disable Sourcemod's autoupate feature.
+    * The configuration file for Sourcemod, core.cfg, is provided with the repo. 
+    * You will need the ZPS 2.4.1 server binaries in order to use this gamedata.
+- Created separate directories for ZPS 3.1 and ZPS 2.4.1 in the repo.
+
 Update (01-19-2019)
 -------------------------------
 - Update SDKTool offsets for ZPS 3.1, this update was pretty small and none of the signatures have changed, so there wasn't much to update here.
